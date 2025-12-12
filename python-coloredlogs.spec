@@ -1,6 +1,6 @@
 Name:		python-coloredlogs
 Version:	15.0.1
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/c/coloredlogs/coloredlogs-%{version}.tar.gz
 Summary:	Colored terminal output for
 URL:		https://pypi.org/project/coloredlogs/
